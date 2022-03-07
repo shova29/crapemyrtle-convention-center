@@ -27,3 +27,8 @@ body {
 .hot-border-round {
   border-radius: 20px;
 }
+
+.frequently-img {
+  border-radius: 3.3rem;
+  /* border-radius: 10pt; */
+}
